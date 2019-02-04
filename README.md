@@ -15,7 +15,7 @@ We will use two textbooks.  Both are available through the library but also on t
 - Yazdani and Iravani, "Voltage-Sourced Converters in Power Systems: Modeling, Control, and Applications" (2010).  (YI in table below)
 
 ## Schedule (subject to change)
-**Week **|**Date**|**Topic**|**Reading**|**Notes**
+**Week**|**Date**|**Topic**|**Reading**|**Notes**
 :-----:|:-----:|:-----:|:-----:|:-----:
 1|28-Jan|Introduction| | 
 2|4-Feb|Initial paper presentations| |"Explain paper objectives, modeling approach and findings.  Focus on the modeling approach, in particular the key assumptions and omissions in the model."
@@ -30,4 +30,5 @@ We will use two textbooks.  Both are available through the library but also on t
 11|22-Apr|Converter models|YI 8|dq control of VSC for grid frequency
 12|29-Apr|Converter models|YI 10|dq control of VSC for variable frequency
  | | | | 
-MBB = Machowski Bialek and Bumby; YI = Yazdani and Iravani| | | | 
+ 
+MBB = Machowski Bialek and Bumby; YI = Yazdani and Iravani
