@@ -6,15 +6,15 @@ The objective of this course is to learn some fundamentals as well as state of t
 - ...as well as getting some fundamentals on inverters under our belts
 - ...and reading a select group of papers
 
-##Format
+## Format
 We will balance lectures on fundamentals -- drawn from textbooks -- with paper presentations and discussion.  The key deliverables will be group work building simulation models that reproduce and extend papers from the literature.
 
-##Materials
+## Materials
 We will use two textbooks.  Both are available through the library but also on the bCourses page for this course. 
 - Machowski, Bialek and Bumby, "Power System Dynamics: Stability and Control" (2008; 2nd ed). (MBB in the table below)
 - Yazdani and Iravani, "Voltage-Sourced Converters in Power Systems: Modeling, Control, and Applications" (2010).  (YI in table below)
 
-##Schedule (subject to change)
+## Schedule (subject to change)
 **Week **|**Date**|**Topic**|**Reading**|**Notes**
 :-----:|:-----:|:-----:|:-----:|:-----:
 1|28-Jan|Introduction| | 
