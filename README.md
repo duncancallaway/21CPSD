@@ -29,6 +29,6 @@ We will use two textbooks.  Both are available through the library but also on t
 10|15-Apr|Converter models|"YI 4 and 5" |Space Phasors and two dimensional frames; Two level three phase VSC
 11|22-Apr|Converter models|YI 8|dq control of VSC for grid frequency
 12|29-Apr|Converter models|YI 10|dq control of VSC for variable frequency
- | | | | 
+ 
  
 MBB = Machowski Bialek and Bumby; YI = Yazdani and Iravani
