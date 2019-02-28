@@ -1,0 +1,43 @@
+%% First let's try a simple first order ODE (not DAE):
+
+
+[t,y] = ode15s(@firstorder,tspan,y0);
+plot(t,y)
+
+%% second order
+y0 = [1,1];
+[t,y] = ode15s(@secondorder,tspan,y0);
+plot(t,y)
+
+%% VDP
+
+[t,y] = ode15s(@vdp,[0 3000],[2 0]);
+plot(t,y(:,1),'-o')
+
+
+%% robertson
+
+y0 = [1; 0; 0];
+tspan = [0 4*logspace(-6,6)];
+M = [1 0 0; 0 1 0; 0 0 0];
+options = odeset('Mass',M,'RelTol',1e-4,'AbsTol',[1e-6 1e-10 1e-6]);
+[t,y] = ode15s(@robertsdae,tspan,y0,options);
+
+y(:,2) = 1e4*y(:,2);
+semilogx(t,y);
+ylabel('1e4 * y(:,2)');
+title('Robertson DAE problem with a Conservation Law, solved by ODE15S');
+
+
+
+
+%% swing
+tspan = [0, 3];
+y0 = [1, 1, 1, 1.1, -10];
+M = eye(5);
+M(5,5) = 0;
+options = odeset('Mass',M);
+[t,y] = ode15s(@swing,tspan,y0,options);
+plot(t,y(:,:))
+
+
