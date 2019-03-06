@@ -1,9 +1,0 @@
-function dydt = swing_one(t,y)
-
-% this function captures the essentials of an oscillatory swing model.  The
-% B coefficient represents real power transfer to an infinite bus.  
-B = 0.1;
-
-dydt = [
-    -B*y(2); 
-    y(1) ];

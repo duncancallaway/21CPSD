@@ -1,3 +1,0 @@
-function dydt = firstorder(y,t)
-
-dydt = 5*y(1) = 
