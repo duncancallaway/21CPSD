@@ -26,8 +26,9 @@ We will use two textbooks.  Both are available through the library but also on t
 7|18-Mar|Machine models|MBB 11|Advanced power systems modeling -- generator voltage and frequency
 8|1-Apr|Machine models|MBB 11|Advanced power systems modeling, ctd -- excitation systems, turbines and governors, load models
 9|8-Apr|Converter models|YI 2, 3|Half bridge converter basics and control
-10|15-Apr|Converter models|YI 4, 5|Space Phasors and two dimensional frames; Two level three phase VSC
+10|15-Apr|Converter models|YI 4, 5, 6|Space Phasors and two dimensional frames; three phase VSCs
 11|22-Apr|Converter models|YI 8|dq control of VSC for grid frequency
-12|29-Apr|Converter models|YI 10|dq control of VSC for variable frequency
+--|29-Apr|cancelled|---|---
+12|6-May|Converter control|Rocabert et al, ``Control of power converters in AC microgrids"
 
 MBB = Machowski, Bialek and Bumby; YI = Yazdani and Iravani
