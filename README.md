@@ -29,6 +29,6 @@ We will use two textbooks.  Both are available through the library but also on t
 10|15-Apr|Converter models|YI 4, 5, 6|Space Phasors and two dimensional frames; three phase VSCs
 11|22-Apr|Converter models|YI 8|dq control of VSC for grid frequency
 --|29-Apr|cancelled|---|---
-12|6-May|Converter control|Rocabert et al, ``Control of power converters in AC microgrids"
+12|6-May|Converter control|Rocabert et al, [``Control of power converters in AC microgrids"](https://ieeexplore.ieee.org/abstract/document/6200347)|
 
 MBB = Machowski, Bialek and Bumby; YI = Yazdani and Iravani
